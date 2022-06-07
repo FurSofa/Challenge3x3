@@ -3,7 +3,7 @@
 A simple mod for [Backpack Hero](https://store.steampowered.com/app/1970580/Backpack_Hero/) to limit the bag size for challenge runs!
 
 ### Tweaks
-* Reduces the new backpack slots to limit to 3x3
+* Restricts the bag size to: 3x3
 
 ## Getting Started
 
