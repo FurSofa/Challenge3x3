@@ -15,7 +15,7 @@ A simple mod for [Backpack Hero](https://store.steampowered.com/app/1970580/Back
 
 ## Version History
 
-* 0.0.1
+* 1.0.0
 	* Initial Release
 
 ## Known Bugs
