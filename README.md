@@ -1,6 +1,6 @@
 # Challenge3x3 - By Fur 
 
-A simple mod for [Backpack Hero](https://store.steampowered.com/app/1970580/Backpack_Hero/). to limit the bag size for challenge runs!
+A simple mod for [Backpack Hero](https://store.steampowered.com/app/1970580/Backpack_Hero/) to limit the bag size for challenge runs!
 
 ### Tweaks
 * Reduces the new backpack slots to limit to 3x3
